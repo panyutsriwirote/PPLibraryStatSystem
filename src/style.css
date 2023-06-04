@@ -1,0 +1,13 @@
+body {
+    user-select: none;
+    text-align: center;
+}
+
+#main {
+    height: 70vh;
+}
+
+.two_column {
+    width: 50%;
+    float: left;
+}
